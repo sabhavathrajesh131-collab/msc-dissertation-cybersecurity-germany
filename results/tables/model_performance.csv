@@ -1,0 +1,4 @@
+model,accuracy,f1_score
+Rule-Based,0.71,0.67
+Logistic Regression,0.81,0.78
+SVM,0.86,0.83
